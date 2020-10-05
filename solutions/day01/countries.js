@@ -12,4 +12,7 @@ const countries = [
   "Kenya",
 ];
 
-export { countries };
+//export { countries };
+
+module.exports = countries;
+//export default countries;

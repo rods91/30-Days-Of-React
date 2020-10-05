@@ -1,7 +1,9 @@
 // Level 2
 
 //1❌
-
+//import countries from "./countries.js";
+const countries1 = require("./countries");
+console.log(countries1);
 //2
 let text =
   "I love teaching and empowering people. I teach HTML, CSS, JS, React, Python.";
