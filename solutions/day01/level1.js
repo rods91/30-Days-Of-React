@@ -76,7 +76,7 @@ if (randomIndex != -1) {
 } else {
   console.log("Company does no exist");
 }
-//14
+//14 ❌
 console.log(itCompanies.includes("Amazon")); //?????????
 //15
 console.log(itCompanies.sort());
